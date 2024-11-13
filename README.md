@@ -11,3 +11,12 @@ Este proyecto tiene como objetivo analizar diversos factores relacionados con la
  5) Contribuciones
  6) Licencia
 
+### 1)Tecnologías utilizadas
+Este proyecto se implementa utilizando las tecnologías y bibliotecas:
+
+* Python 3.8+
+* Pandas : Para la manipulación y análisis de datos.
+* Matplotlib y Seaborn : Para la visualización de datos.
+* Scikit-learn : Para el análisis de datos y modelado (PCA, t-SNE, etc.).
+* Statsmodels : Para análisis estadístico y regresión.
+* Entre otras.
