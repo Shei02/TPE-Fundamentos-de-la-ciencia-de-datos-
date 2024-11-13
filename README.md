@@ -23,6 +23,7 @@ Este proyecto se implementa utilizando las tecnologías y bibliotecas:
 * 0- Instalarse la consola Git para completar los siguientes pasos
    https://git-scm.com/downloads
 * 1- Abrir la consola Git y clonar el repositorio en una carpeta creada ya en su pc
+   ```bash
    git clone https://github.com/Shei02/calidad_agua.git
    cd calidad_agua
 * 2- Crear un entorno virtual y activarlo
@@ -41,6 +42,7 @@ calidad_agua/
 │   ├── analysis.py      # Funciones de análisis de datos
 ├── README.md            # Este archivo
 ├── requirements.txt     # Dependencias del proyecto
+```
 
 ### 4)Uso
 Comezar con la ejecucion del codigo paso a paso, para ir descargando el archivo.
