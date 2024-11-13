@@ -8,9 +8,7 @@ Este proyecto tiene como objetivo analizar diversos factores relacionados con la
  2) Instalación
  3) Estructura del proyecto
  4) Uso
- 5) Contribuciones
- 6) Licencia
-
+ 
 ### 1)Tecnologías utilizadas
 Este proyecto se implementa utilizando las tecnologías y bibliotecas:
 
@@ -20,3 +18,30 @@ Este proyecto se implementa utilizando las tecnologías y bibliotecas:
 * Scikit-learn : Para el análisis de datos y modelado (PCA, t-SNE, etc.).
 * Statsmodels : Para análisis estadístico y regresión.
 * Entre otras.
+
+### 2)Instalación
+* 0- Instalarse la consola Git para completar los siguientes pasos
+   https://git-scm.com/downloads
+* 1- Abrir la consola Git y clonar el repositorio en una carpeta creada ya en su pc
+   git clone https://github.com/Shei02/calidad_agua.git
+   cd calidad_agua
+* 2- Crear un entorno virtual y activarlo
+  python -m venv env
+  source env/bin/activate  # En Windows usa: env\Scripts\activate
+* 3- Instale las dependencias necesarias
+  pip install -r requirements.txt
+
+### 3)Estructura del proyecto
+calidad_agua/
+├── data/                # Archivos de datos (CSV, etc.)
+├── notebooks/            # Jupyter Notebooks con los análisis
+├── src/                 # Código fuente del proyecto
+│   ├── data_preprocessing.py  # Preprocesamiento de datos
+│   ├── analysis.py      # Funciones de análisis de datos
+├── README.md            # Este archivo
+├── requirements.txt     # Dependencias del proyecto
+
+### 4)Uso
+Comezar con la ejecucion del codigo paso a paso, para ir descargando el archivo.
+Luego ver como se realizo la limpiea del mismo.
+Y asi hasta ver las hipotesis que fueron presentadas y la demostracion de las mismas.
