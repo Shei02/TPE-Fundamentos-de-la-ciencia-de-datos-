@@ -25,7 +25,7 @@ Este proyecto se implementa utilizando las tecnologías y bibliotecas:
    ```bash
    git clone https://github.com/Shei02/calidad_agua.git
    cd calidad_agua
-* 2- Crear un entorno virtual y activarlo
+* 2- Dentro de esta carpeta crear un entorno virtual y activarlo
    ```bash
   python -m venv env
   source env/bin/activate  # En Windows usa: env\Scripts\activate
