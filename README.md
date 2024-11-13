@@ -32,6 +32,7 @@ Este proyecto se implementa utilizando las tecnologías y bibliotecas:
   pip install -r requirements.txt
 
 ### 3)Estructura del proyecto
+```plaintext
 calidad_agua/
 ├── data/                # Archivos de datos (CSV, etc.)
 ├── notebooks/            # Jupyter Notebooks con los análisis
