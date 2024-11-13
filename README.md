@@ -7,7 +7,6 @@ Este proyecto tiene como objetivo analizar diversos factores relacionados con la
  1) Tecnologías utilizadas
  2) Instalación
  3) Estructura del proyecto
- 4) Uso
  
 ### 1)Tecnologías utilizadas
 Este proyecto se implementa utilizando las tecnologías y bibliotecas:
@@ -45,8 +44,3 @@ calidad_agua/
 ├── README.md            # Este archivo
 ├── requirements.txt     # Dependencias del proyecto
 ```
-
-### 4)Uso
-Comezar con la ejecucion del codigo paso a paso, para ir descargando el archivo.
-Luego ver como se realizo la limpiea del mismo.
-Y asi hasta ver las hipotesis que fueron presentadas y la demostracion de las mismas.
