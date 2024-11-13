@@ -1,6 +1,12 @@
-# TPE-Fundamentos-de-la-ciencia-de-datos-
-En este proyecto nos dedicamos a aplicar los contenidos brindados por la catedra de Fundanmentos De La Ciencia De Datos, durante el trancurso de este cuatrimestre.
-Pudimos aplicar los conocimientos aprendidos sobre el lenguaje Python. En este curso pudimos demostrar que sabemos manipular datos brindados desde una base de datos previamente cargada, hacer con ellos un analisis exploratorio, limpiarlos, imputarlos en caso de ser necesario.
-Aprendimos y desarrollamos el conocimiento de plantearnos ante los datos posibles hipotesis para su posterior demostracion mediante las herramientas brindadas por la catedra.
+#Proyecto de Análisis de Calidad del Agua
+#Descripción:
+Este proyecto tiene como objetivo analizar diversos factores relacionados con la calidad del agua utilizando datos de mediciones como temperatura, turbidez, coliformes fecales, y otros indicadores de calidad. Se aplican técnicas de análisis de componentes principales (PCA), t-SNE y regresión para explorar las relaciones entre estos factores y su influencia en la calidad del agua, asi como tambien test parametricos y no parametricos que demuestran la validacion o no de las hipotesis que fueron surguiendo durante el recorrido de este proyecto.
 
-Repo donde tenemos la netbook de Jupyter, junto a el informe, junto a los requerimientos.txt y el archivo README.md con las instrucciones de ejecución
+#Índice
+ 1) Tecnologías utilizadas
+ 2) Instalación
+ 3) Estructura del proyecto
+ 4) Uso
+ 5) Contribuciones
+ 6) Licencia
+
